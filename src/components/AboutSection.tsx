@@ -30,7 +30,7 @@ export function AboutSection() {
             </Button>
           </a>
           <a
-            href="www.linkedin.com/in/matheusfeijao"
+            href="https://www.linkedin.com/in/matheusfeijao/"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -17,7 +17,7 @@ export function NavBar() {
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-            Portfolio
+            Developer Portfolio
           </h1>
           
           {isMobile ? (
